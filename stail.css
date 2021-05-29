@@ -1,0 +1,18 @@
+button[type=button]{
+    background-color: #4c8baf;
+    border: 1px solid #2624a8 ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button[type=button]:hover{
+    background-color: rgb(91, 214, 236);
+}
+
+img{
+    border: 1px solid #f5e615;
+}
